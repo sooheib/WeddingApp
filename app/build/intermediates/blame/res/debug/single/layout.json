@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/res/merged/debug/layout/activity_dashboard.xml",
+        "source": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/src/main/res/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/res/merged/debug/layout/activity_event_list.xml",
+        "source": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/src/main/res/layout/activity_event_list.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/res/merged/debug/layout/one_event.xml",
+        "source": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/src/main/res/layout/one_event.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/res/merged/debug/layout/activity_billing.xml",
+        "source": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/src/main/res/layout/activity_billing.xml"
+    }
+]

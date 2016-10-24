@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+   <!-- TODO 7 LAYOUT ONE EVENT -->
+
+    <ImageView
+        android:id="@+id/imgEvent"
+        android:layout_width="100dip"
+        android:layout_height="80dip"
+        android:layout_gravity="center_vertical"
+        android:padding="10dp"
+        android:src="@drawable/img_casabo"
+        />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"
+        >
+
+        <TextView android:id="@+id/nameEvent"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+
+            />
+        <TextView android:id="@+id/priceEvent"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:textColor="#FF0000"
+            />
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

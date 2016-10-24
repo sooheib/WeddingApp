@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8eb22d1a65ff3894acce3d7484dbecfade0a2ebf">
+        <dex dex="/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_14920deef5c0cb9695798e8c39a62c2b776075c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="41a53158e7a47d408af5c2949894806ae690c395">
+        <dex dex="/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2e1c8405ed3ab9dfb2b59b5e5ea13f7a03b5d156/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/libs/sqlite-simple-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="942d5ea807bc27622ff5f30cc16fe6e8094ed647">
+        <dex dex="/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/transforms/dex/debug/folders/1000/2/sqlite-simple-2.4_ce590de24a3c62a8675a26ccbce97901b6b8a661/classes.dex" />
+    </item>
+
+</items>

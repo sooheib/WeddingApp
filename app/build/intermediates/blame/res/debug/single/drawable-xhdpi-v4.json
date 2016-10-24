@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/img_mercure.jpg",
+        "source": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/src/main/res/drawable-xhdpi/img_mercure.jpg"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/img_audi.jpg",
+        "source": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/src/main/res/drawable-xhdpi/img_audi.jpg"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/img_regency.jpg",
+        "source": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/src/main/res/drawable-xhdpi/img_regency.jpg"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/img_masmoudi.jpg",
+        "source": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/src/main/res/drawable-xhdpi/img_masmoudi.jpg"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/img_mercedes.jpg",
+        "source": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/src/main/res/drawable-xhdpi/img_mercedes.jpg"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/img_porsche.jpg",
+        "source": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/src/main/res/drawable-xhdpi/img_porsche.jpg"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/img_takacim.jpg",
+        "source": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/src/main/res/drawable-xhdpi/img_takacim.jpg"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/img_gourmandise.jpg",
+        "source": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/src/main/res/drawable-xhdpi/img_gourmandise.jpg"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/img_bmw.jpg",
+        "source": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/src/main/res/drawable-xhdpi/img_bmw.jpg"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/img_jawhara.jpg",
+        "source": "/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/src/main/res/drawable-xhdpi/img_jawhara.jpg"
+    }
+]

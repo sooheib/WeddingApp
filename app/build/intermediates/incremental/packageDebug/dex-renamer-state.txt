@@ -1,0 +1,7 @@
+#Mon Oct 24 17:41:00 CET 2016
+base.0=/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_14920deef5c0cb9695798e8c39a62c2b776075c2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2e1c8405ed3ab9dfb2b59b5e5ea13f7a03b5d156/classes.dex
+base.1=/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2e1c8405ed3ab9dfb2b59b5e5ea13f7a03b5d156
+file.0=/home/sooheib/Desktop/ANDROID/DS/Examen_wedding/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_14920deef5c0cb9695798e8c39a62c2b776075c2/classes.dex
